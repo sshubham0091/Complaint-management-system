@@ -53,7 +53,7 @@ A cloud-based complaint management system for educational institutions, built wi
 ### Installation
 
 # 1. Clone the repository
-* git clone https://github.com/sahutushar/Complaint-management
+* git clone https://github.com/sshubham0091/Complaint-management-system
 * cd Capstone Project---Student-Complaint-Management-System
 
 # 2. Install dependencies
@@ -77,7 +77,7 @@ flask run                        # starts on http://127.0.0.1:5000
   • Service  : Azure Web Apps
   • Region   : Central India
   • Stack    : Python 3.8
-  • URL      : https://6604528tusharsahug3batch3-exczaeg7dec4egfx.centralindia-01.azurewebsites.net/submit
+  • URL      : https://github.com/sshubham0091/Complaint-management-system
 
 # (Optional) CI/CD via GitHub Actions can be added for automated deploys.
 
